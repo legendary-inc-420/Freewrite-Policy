@@ -1,6 +1,6 @@
 # Privacy Policy for FreeWrite AI Chrome Extension
 
-_Last updated: June 2024_
+_Last updated: May 2025_
 
 ## Overview
 
